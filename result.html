@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Diagnosis Result</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-r from-blue-100 via-white to-green-100 min-h-screen flex items-center justify-center">
+  <div class="bg-white shadow-xl rounded-2xl p-8 max-w-4xl w-full">
+    <h1 class="text-3xl font-bold text-center text-blue-600 mb-6">AI Diagnosis Result</h1>
+
+    <p class="text-lg mb-4">
+      <span class="font-semibold text-gray-700">Predicted Disease:</span>
+      <span class="text-red-600">{{ disease }}</span>
+    </p>
+
+    <div class="prose prose-lg max-w-none text-gray-800" style="white-space: normal;">
+      {{ result_text | safe }}
+    </div>
+
+    <div class="mt-8 text-center">
+      <a href="/" class="bg-blue-600 text-white px-6 py-2 rounded-full hover:bg-blue-700 transition duration-300">Go Back</a>
+    </div>
+  </div>
+</body>
+</html>

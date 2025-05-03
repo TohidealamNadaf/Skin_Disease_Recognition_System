@@ -1,0 +1,230 @@
+{
+    "Acne and Rosacea Photos": {
+      "symptoms": [
+        "Small red or white pimples on the skin, especially the face",
+        "Blackheads (open clogged pores)",
+        "Whiteheads (closed clogged pores)",
+        "Skin redness and inflammation",
+        "Bumps filled with pus or fluid"
+      ],
+      "causes": [
+        "Overproduction of oil by skin glands",
+        "Blocked hair follicles by oil and dead skin cells",
+        "Bacterial growth in the pores",
+        "Hormonal changes during puberty or stress",
+        "Use of certain cosmetics or medications"
+      ],
+      "medical_treatment": [
+        "Topical creams like benzoyl peroxide or salicylic acid help unclog pores",
+        "Antibiotics (creams or oral) reduce inflammation and kill bacteria",
+        "Retinoid creams to prevent clogged pores",
+        "Laser or light therapy targets deep inflammation",
+        "Isotretinoin for severe cases (must be used under doctor supervision)"
+      ],
+      "dietary_suggestions": [
+        "Avoid sugary foods and drinks as they may trigger acne",
+        "Limit dairy products which can affect hormone levels",
+        "Eat omega-3 rich foods like fish and flaxseeds for skin health",
+        "Drink plenty of water to keep skin hydrated",
+        "Include zinc-rich foods like pumpkin seeds and lentils to reduce acne"
+      ],
+      "exercise_suggestions": [
+        "Exercise regularly to improve blood flow and skin health",
+        "Wash your face after workouts to remove sweat and bacteria",
+        "Avoid tight headgear or helmets that rub against the skin",
+        "Do yoga or breathing exercises to manage stress (a known trigger)",
+        "Wear clean, breathable clothes during exercise"
+      ]
+    },
+  
+    "Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions": {
+      "symptoms": [
+        "Scaly, rough patches on sun-exposed areas of the skin",
+        "Sores that don’t heal or keep returning",
+        "Firm, skin-colored or reddish lumps",
+        "Crusting or bleeding spots",
+        "Lesions with irregular borders or color changes"
+      ],
+      "causes": [
+        "Prolonged exposure to ultraviolet (UV) rays from sunlight",
+        "Use of tanning beds",
+        "Weakened immune system due to disease or medication",
+        "Older age and fair skin type",
+        "Genetic factors or family history"
+      ],
+      "medical_treatment": [
+        "Cryotherapy (freezing the lesion with liquid nitrogen)",
+        "Topical chemotherapy creams to destroy abnormal cells",
+        "Minor surgery to remove cancerous tissue",
+        "Laser treatment for precision removal",
+        "Photodynamic therapy using light-activated drugs to kill abnormal cells"
+      ],
+      "dietary_suggestions": [
+        "Eat foods rich in antioxidants (like berries, spinach) to protect skin cells",
+        "Avoid processed meats and high-fat foods",
+        "Increase vitamin D intake (consult doctor if sun exposure is limited)",
+        "Include citrus fruits and leafy greens for immune support",
+        "Drink green tea, which may help in skin cell repair"
+      ],
+      "exercise_suggestions": [
+        "Engage in light indoor exercises like stretching or walking",
+        "Wear protective clothing and sunscreen when exercising outdoors",
+        "Avoid sun exposure between 10 AM and 4 PM",
+        "Stay hydrated during physical activity",
+        "Try mindfulness-based exercises like Tai Chi or yoga to reduce stress"
+      ]
+    },
+  
+    "Atopic Dermatitis Photos": {
+      "symptoms": [
+        "Dry and itchy skin that worsens at night",
+        "Red or brownish patches on hands, feet, face, or neck",
+        "Thickened, cracked, or scaly skin",
+        "Oozing and crusting after scratching",
+        "Raw, sensitive skin from frequent rubbing"
+      ],
+      "causes": [
+        "Genetics (family history of eczema or allergies)",
+        "Exposure to irritants like soaps or chemicals",
+        "Dry weather or low humidity",
+        "Allergens like dust, pollen, or pet dander",
+        "Stress or emotional triggers"
+      ],
+      "medical_treatment": [
+        "Moisturizers (emollients) applied several times daily to lock in moisture",
+        "Topical steroid creams to reduce inflammation",
+        "Antihistamines to reduce itching and help sleep",
+        "Phototherapy (light therapy) for chronic cases",
+        "Prescription creams that modulate the immune response (like tacrolimus)"
+      ],
+      "dietary_suggestions": [
+        "Avoid trigger foods (e.g., dairy, eggs, gluten) if known",
+        "Eat foods rich in omega-3 fatty acids to reduce inflammation",
+        "Include fruits and vegetables for skin-supporting vitamins",
+        "Drink lots of water to maintain hydration",
+        "Consume probiotic-rich foods like yogurt for gut health"
+      ],
+      "exercise_suggestions": [
+        "Do moderate exercise like walking or cycling",
+        "Shower immediately after sweating to prevent irritation",
+        "Wear soft, breathable clothing during workouts",
+        "Avoid overheating or hot environments",
+        "Try stress-relieving activities like swimming or yoga"
+      ]
+    },
+  
+    "Bullous Disease Photos": {
+      "symptoms": [
+        "Large, fluid-filled blisters on the skin",
+        "Red, itchy, or painful skin before blister formation",
+        "Skin peeling or raw areas after blisters burst",
+        "Blisters inside the mouth or mucous membranes",
+        "Delayed wound healing"
+      ],
+      "causes": [
+        "Autoimmune disorders where the body attacks healthy skin",
+        "Side effects of medications",
+        "Infections or extreme heat",
+        "Genetic disorders (in inherited cases)",
+        "Sun exposure or skin trauma"
+      ],
+      "medical_treatment": [
+        "Corticosteroid creams or pills to reduce immune attacks",
+        "Immune-suppressing drugs to stop blister formation",
+        "Wound care with sterile dressings to prevent infection",
+        "Antibiotics for infected blisters",
+        "Special oral medications for severe or resistant cases"
+      ],
+      "dietary_suggestions": [
+        "Eat soft, easy-to-chew foods if mouth blisters are present",
+        "Avoid spicy or acidic foods that may irritate blisters",
+        "Stay hydrated to support skin repair",
+        "Consume foods rich in vitamins A, C, and E",
+        "Avoid foods known to trigger flare-ups"
+      ],
+      "exercise_suggestions": [
+        "Do gentle movements like walking or light yoga",
+        "Avoid friction on skin to prevent new blisters",
+        "Wear loose, soft clothing during exercise",
+        "Use cooling fans or AC to prevent sweating",
+        "Stretch at home instead of going to gyms with high contact"
+      ]
+    },
+  
+    "Melanoma": {
+      "symptoms": [
+        "New or unusual growths or moles",
+        "Moles with asymmetry, irregular borders, or color changes",
+        "Spots that itch, bleed, or don’t heal",
+        "Changes in existing moles (size, color, shape)",
+        "Dark streaks under nails or on palms"
+      ],
+      "causes": [
+        "Unprotected and prolonged sun exposure",
+        "Use of tanning beds or artificial UV light",
+        "Family history of skin cancer",
+        "Having many moles or unusual-looking moles",
+        "Fair skin with freckles and light hair"
+      ],
+      "medical_treatment": [
+        "Surgical removal of the affected skin area",
+        "Immunotherapy to help the body attack cancer cells",
+        "Targeted drugs for specific genetic mutations",
+        "Radiation therapy in advanced cases",
+        "Regular skin check-ups after treatment"
+      ],
+      "dietary_suggestions": [
+        "Eat dark leafy greens and colorful vegetables for antioxidants",
+        "Include foods rich in vitamin D (if safe to do so)",
+        "Avoid charred meats and processed foods",
+        "Drink green tea for skin-protective benefits",
+        "Stay well hydrated throughout the day"
+      ],
+      "exercise_suggestions": [
+        "Gentle exercise like walking or stretching",
+        "Wear sun-protective clothing during outdoor workouts",
+        "Avoid sun exposure between 10 AM and 4 PM",
+        "Choose indoor or shaded environments for activities",
+        "Practice stress management techniques like meditation"
+      ]
+    },
+  
+    "Normal Skin": {
+      "symptoms": [
+        "Balanced moisture with no dry or oily areas",
+        "Even skin tone and smooth texture",
+        "No visible blemishes or irritation",
+        "Small, non-clogged pores",
+        "Healthy glow without redness or inflammation"
+      ],
+      "causes": [
+        "Good skincare routine and hygiene",
+        "Proper hydration and sleep",
+        "Balanced diet with essential nutrients",
+        "Stable hormones and low stress",
+        "Regular physical activity"
+      ],
+      "medical_treatment": [
+        "No treatment needed, just basic skincare",
+        "Use of sunscreen daily to protect from UV rays",
+        "Mild cleansers to maintain skin barrier",
+        "Occasional exfoliation to remove dead skin",
+        "Hydrating moisturizer to keep skin soft"
+      ],
+      "dietary_suggestions": [
+        "Eat a balanced diet with fruits, vegetables, and whole grains",
+        "Drink 6 to 8 glasses of water daily",
+        "Include healthy fats like nuts, seeds, and avocados",
+        "Limit sugar and processed foods",
+        "Get enough vitamins A, C, E, and zinc"
+      ],
+      "exercise_suggestions": [
+        "Regular cardio and strength workouts",
+        "Facial yoga to tone muscles",
+        "Stretching to improve blood circulation",
+        "Stress-relief techniques like walking or dancing",
+        "Maintain consistent sleep and exercise routine"
+      ]
+    }
+  }
+  

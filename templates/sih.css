@@ -1,0 +1,55 @@
+/* General improvements */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f9f9f9;
+}
+
+/* Card enhancements */
+.cont, .cause-box {
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.cont:hover, .cause-box:hover {
+    transform: scale(1.02);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.2);
+}
+
+/* Button enhancements */
+button.btn, .btn-primary {
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    border-radius: 8px;
+}
+button.btn:hover, .btn-primary:hover {
+    background-color: #004085;
+    transform: scale(1.05);
+}
+
+/* Headings and spacing */
+h1, h2 {
+    color: #343a40;
+    font-weight: bold;
+}
+h1 {
+    margin-bottom: 20px;
+}
+
+/* Modal fix */
+.modal-content {
+    border-radius: 10px;
+}
+
+/* Navbar (sih.html) */
+.navbar {
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.navbar-brand img {
+    transition: transform 0.3s;
+}
+.navbar-brand img:hover {
+    transform: scale(1.1);
+}
+
+/* Footer icons */
+.icon-container:hover {
+    background-color: #0d6efd;
+}
